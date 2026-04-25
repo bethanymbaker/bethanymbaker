@@ -1,5 +1,7 @@
 AI Engineer. Berkeley.
 
+Vision · Semantic search · Computational physics and mechanics.
+
 **2008** — co-author, [*Tensionless contact of a flexible plate and annulus with a smooth half-space under axisymmetric loads by integral equations*](https://doi.org/10.1016/j.ijmecsci.2008.02.011) (Pak, Simmons, Ashlock, *Int. J. Mech. Sci.* 50:1004–1011).
 
 **2013** — [ElectricSpark](https://github.com/bethanymbaker/ElectricSpark): iOS particle simulator hinting that a single force law could bridge atomic and macroscopic regimes.
