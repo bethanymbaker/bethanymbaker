@@ -12,7 +12,7 @@ Vision · Semantic search · Computational physics and mechanics · Agentic orch
 
 **2016** — co-author, [*Visual Product Discovery*](http://phillong.info/publications/LLBetal16_vpd.pdf) (Legrand et al., KDD Fashion ML Workshop): triplet-network embeddings + Bayesian visual search, in production at scale.
 
-**2017** — invited talk, [*At the Intersection of Fashion and Big Data*](https://www.youtube.com/watch?v=lUSeWFmWeWY) ([slides](https://drive.google.com/file/d/0B810rn_8nh1oVmNVTUhoVlphOWtRNlhEMUVUQ0xobkpVcXFr/view?resourcekey=0-QlxXahQ_92NA7kzFpu4-Zw)) at PyLadies × Wikimedia Foundation, January 17.
+**2017** — invited talk, [*At the Intersection of Fashion and Big Data*](https://www.youtube.com/watch?v=lUSeWFmWeWY&t=1647s) ([slides](https://drive.google.com/file/d/0B810rn_8nh1oVmNVTUhoVlphOWtRNlhEMUVUQ0xobkpVcXFr/view?resourcekey=0-QlxXahQ_92NA7kzFpu4-Zw)) at PyLadies × Wikimedia Foundation, January 17.
 
 **2019** — [`arch`](https://github.com/bethanymbaker/arch): self-taught ML lab. In the GitHub Arctic Code Vault.
 
