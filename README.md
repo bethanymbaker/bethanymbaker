@@ -14,4 +14,4 @@ Vision · Semantic search · Computational physics and mechanics · Agentic orch
 
 **2019** — [`arch`](https://github.com/bethanymbaker/arch): self-taught ML lab. In the GitHub Arctic Code Vault.
 
-**2026** — [Three patents](https://patents.justia.com/inventor/bethany-marie-baker) published in AI-driven semantic search. Reviving the 2013 math, properly: [`trajectory`](https://github.com/bethanymbaker/trajectory) (private, in progress).
+**2026** — [Three patents](https://patents.justia.com/inventor/bethany-marie-baker) published in AI-driven semantic search; filed [structural bug](https://github.com/anthropics/claude-code/issues/50554) against `anthropics/claude-code` core (compaction re-executing stale loop commands; fix shipped). Reviving the 2013 math, properly: [`trajectory`](https://github.com/bethanymbaker/trajectory) (private, in progress).
