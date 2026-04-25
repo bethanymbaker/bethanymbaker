@@ -1,4 +1,4 @@
-ML engineer. Berkeley.
+AI Engineer. Berkeley.
 
 **2008** — co-author, [*Tensionless contact of a flexible plate and annulus with a smooth half-space under axisymmetric loads by integral equations*](https://doi.org/10.1016/j.ijmecsci.2008.02.011) (Pak, Simmons, Ashlock, *Int. J. Mech. Sci.* 50:1004–1011).
 
